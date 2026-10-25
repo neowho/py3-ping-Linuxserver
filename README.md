@@ -21,7 +21,7 @@ py -3 SaoMiao_Ping.py
 
 ## 3. 下载地址
 
-[转到 SaoMiao_Ping Releases](https://github.com/SaoMiaoCeShi/SaoMiao_Ping/releases)
+[转到 SaoMiao_Ping Releases](https://github.com/neowho/py3-ping-Linuxserver/releases/tag/V2.1.0)
 
 从 Releases 下载 `SaoMiao_Ping.exe`。本目录里的 `SaoMiao_Ping.exe` 与当前 `SaoMiao_Ping.py` 是同一次 Python 3.12 打包结果。
 
